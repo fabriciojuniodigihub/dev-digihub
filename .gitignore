@@ -1,0 +1,45 @@
+# Material bruto: 8+ GB e contém credencial de cliente. Nunca versionar.
+material/
+
+# Chaves e segredos, em qualquer lugar da árvore
+*.pem
+*.ppk
+*.key
+*.p12
+*.pfx
+*.jks
+*.tgz
+.env
+*.env
+**/config/*.properties
+**/*acesso*.txt
+**/*Acessos*.txt
+**/*Acessos*.docx
+
+# Build
+build/
+target/
+bin/
+out/
+*.class
+*.jar
+node_modules/
+
+# Temporário e sistema
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.settings/
+.classpath
+.project
+*.iml
+.vscode/
+
+# Índice de infraestrutura de cliente: host, usuário e base. Fica só local.
+notas/acessos-mapa.md
+notas/_inventario_zips.txt
