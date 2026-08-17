@@ -54,6 +54,7 @@ Pasta de trabalho da Digihub Tecnologia. Início em 17/08/2026, área de Serviç
 | [produto-governance.md](notas/produto-governance.md) | pilares, elementos, setup por JSON |
 | [produto-cadastro-facil.md](notas/produto-cadastro-facil.md) | módulo à parte, API REST, argumento de venda |
 | [roberty-plataforma.md](notas/roberty-plataforma.md) | Studio, Designer, Runner, ações, parâmetros, workspace |
+| [pdd-documento-de-processo.md](notas/pdd-documento-de-processo.md) | o documento obrigatório de todo robô do Roberty |
 | [roberty-lecom-integracao.md](notas/roberty-lecom-integracao.md) | as 4 ações no-code que ligam o Roberty ao BPM |
 | [roberty-agentes-de-ia.md](notas/roberty-agentes-de-ia.md) | RPA x agente, guardrails, camada de acesso via RPA |
 | [metodologia-e-ia.md](notas/metodologia-e-ia.md) | Spec Kit Lecom, skill de campos, Roberty |

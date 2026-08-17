@@ -24,4 +24,13 @@ O índice de acessos está em [acessos-mapa.md](../../notas/acessos-mapa.md).
 ## Anotações
 
 Versão da plataforma: a confirmar
-Processos que atendo: a preencher
+
+A Lecom aqui é o **Lecom Administrativo**, os processos internos da própria Lecom Tecnologia S.A.
+
+### Automações
+
+| O que | Onde |
+|---|---|
+| Importador de Notas Fiscais do Portal da Prefeitura de Bauru | [rpa/importador-notas-fiscais.md](rpa/importador-notas-fiscais.md) |
+
+O importador roda diariamente às 8h00 e é o robô que tem o problema do retry do captcha.
