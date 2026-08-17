@@ -59,6 +59,12 @@ Pasta de trabalho da Digihub Tecnologia. Início em 17/08/2026, área de Serviç
 | [metodologia-e-ia.md](notas/metodologia-e-ia.md) | Spec Kit Lecom, skill de campos, Roberty |
 | [automatizacao-de-campos.md](notas/automatizacao-de-campos.md) | as duas planilhas, o script Python e a skill |
 
+## Clientes
+
+[clientes/](clientes/) tem uma pasta por cliente, a Lecom entre eles, cada uma dividida em
+`javascript/`, `robos/`, `integracoes/`, `sql/`, `atos/`, `rpa/` e `chamados/`.
+Índice em [clientes/README.md](clientes/README.md).
+
 ## Provas e exercícios
 
 [projetos/](projetos/) tem a certificação Roberty resolvida e os exercícios do treinamento

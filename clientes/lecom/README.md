@@ -1,13 +1,13 @@
-# Deloitte
+# Lecom
 
-Ambientes: prd, act, dev
+Ambientes: prd, act
 
-Produção fica em domínio próprio (touchless), não no da Lecom.
+A Lecom também é cliente, pelo Lecom Administrativo.
 
 
 Credenciais e chaves **não ficam aqui**. Estão em
-`material/EquipeTecnica/Equipe Técnica/Acessos Clientes/Deloitte/`, fora do versionamento.
-O índice de acessos está em [acessos-mapa.md](../../../notas/acessos-mapa.md).
+`material/EquipeTecnica/Equipe Técnica/Acessos Clientes/Lecom Administrativo/`, fora do versionamento.
+O índice de acessos está em [acessos-mapa.md](../../notas/acessos-mapa.md).
 
 ## O que vai em cada pasta
 

@@ -1,13 +1,13 @@
-# Unimed Botucatu
+# Novo Tempo
 
-Ambientes: a confirmar
+Ambientes: prd, act
 
-Pasta de acessos veio vazia no pacote.
+Aplicação em domínio próprio (meufacilita).
 
 
 Credenciais e chaves **não ficam aqui**. Estão em
-`material/EquipeTecnica/Equipe Técnica/Acessos Clientes/Unimed Botucatu/`, fora do versionamento.
-O índice de acessos está em [acessos-mapa.md](../../../notas/acessos-mapa.md).
+`material/EquipeTecnica/Equipe Técnica/Acessos Clientes/Novo Tempo/`, fora do versionamento.
+O índice de acessos está em [acessos-mapa.md](../../notas/acessos-mapa.md).
 
 ## O que vai em cada pasta
 

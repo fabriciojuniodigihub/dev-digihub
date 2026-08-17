@@ -1,13 +1,13 @@
-# Alper Seguros
+# Deloitte
 
 Ambientes: prd, act, dev
 
-Benefícios. Projeto onde comecei.
+Produção fica em domínio próprio (touchless), não no da Lecom.
 
 
 Credenciais e chaves **não ficam aqui**. Estão em
-`material/EquipeTecnica/Equipe Técnica/Acessos Clientes/Alper/`, fora do versionamento.
-O índice de acessos está em [acessos-mapa.md](../../../notas/acessos-mapa.md).
+`material/EquipeTecnica/Equipe Técnica/Acessos Clientes/Deloitte/`, fora do versionamento.
+O índice de acessos está em [acessos-mapa.md](../../notas/acessos-mapa.md).
 
 ## O que vai em cada pasta
 

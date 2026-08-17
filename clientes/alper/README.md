@@ -1,12 +1,13 @@
-# Justiça
+# Alper Seguros
 
-Ambientes: a confirmar
+Ambientes: prd, act, dev
 
+Benefícios. Projeto onde comecei.
 
 
 Credenciais e chaves **não ficam aqui**. Estão em
-`material/EquipeTecnica/Equipe Técnica/Acessos Clientes/Justiça/`, fora do versionamento.
-O índice de acessos está em [acessos-mapa.md](../../../notas/acessos-mapa.md).
+`material/EquipeTecnica/Equipe Técnica/Acessos Clientes/Alper/`, fora do versionamento.
+O índice de acessos está em [acessos-mapa.md](../../notas/acessos-mapa.md).
 
 ## O que vai em cada pasta
 

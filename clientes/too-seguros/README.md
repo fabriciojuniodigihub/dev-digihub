@@ -1,13 +1,12 @@
-# Digihub (interno)
+# Too Seguros
 
-Ambientes: v5.5, v5.7, prod 5.60
+Ambientes: a confirmar
 
-Ambientes internos de teste e POCs.
 
 
 Credenciais e chaves **não ficam aqui**. Estão em
-`material/EquipeTecnica/Equipe Técnica/Acessos Clientes/Digihub/`, fora do versionamento.
-O índice de acessos está em [acessos-mapa.md](../../../notas/acessos-mapa.md).
+`material/EquipeTecnica/Equipe Técnica/Acessos Clientes/Too Seguros/`, fora do versionamento.
+O índice de acessos está em [acessos-mapa.md](../../notas/acessos-mapa.md).
 
 ## O que vai em cada pasta
 

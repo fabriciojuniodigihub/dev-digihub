@@ -1,28 +1,9 @@
-# Projetos
+# Provas e exercícios
 
-Código de cliente fica em `clientes/`. O que tem prazo e banca fica em `provas/`. O que o
-Haislan passou como tarefa durante o treinamento fica em `exercicios/`.
+O que tem prazo e banca fica em `provas/`. O que o Haislan passou como tarefa durante o
+treinamento fica em `exercicios/`.
 
-## Clientes
-
-Uma pasta por cliente, e a Lecom é uma delas, pelo Lecom Administrativo. Cada uma tem README
-próprio com os ambientes e a mesma divisão interna:
-
-| Pasta | Conteúdo |
-|---|---|
-| `javascript/` | regras de tela e arquivos da API JS, um por processo |
-| `robos/` | robôs em Java |
-| `integracoes/` | integrações Java, de atividade e de campo |
-| `sql/` | queries de lupa, relatório e diagnóstico |
-| `atos/` | exportações de processo, com a versão no nome |
-| `rpa/` | automações do Roberty e o `robo.json` exportado |
-| `chamados/` | um arquivo por chamado: o que pediram, o que causava, o que mudou |
-
-Clientes: alper, atlantica, deloitte, digihub, johnson-johnson, justica,
-laboratorio-digital, lecom, novo-tempo, sicoob-sao-miguel, sodexo, too-seguros,
-unimed-botucatu.
-
-**Credencial não entra aqui.** Chave e senha ficam em `material/`, que está no `.gitignore`.
+Código de cliente não fica aqui, fica em [clientes/](../clientes/).
 
 ## Provas
 

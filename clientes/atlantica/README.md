@@ -1,13 +1,13 @@
-# Lecom
+# Atlântica
 
 Ambientes: prd, act
 
-A Lecom também é cliente, pelo Lecom Administrativo.
+Roda **SQL Server**, não MySQL. Power BI consome as queries.
 
 
 Credenciais e chaves **não ficam aqui**. Estão em
-`material/EquipeTecnica/Equipe Técnica/Acessos Clientes/Lecom Administrativo/`, fora do versionamento.
-O índice de acessos está em [acessos-mapa.md](../../../notas/acessos-mapa.md).
+`material/EquipeTecnica/Equipe Técnica/Acessos Clientes/Atlantica/`, fora do versionamento.
+O índice de acessos está em [acessos-mapa.md](../../notas/acessos-mapa.md).
 
 ## O que vai em cada pasta
 

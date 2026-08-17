@@ -1,13 +1,13 @@
-# Atlântica
+# Sodexo
 
 Ambientes: prd, act
 
-Roda **SQL Server**, não MySQL. Power BI consome as queries.
+Tem base auxiliar e SSO por SAML.
 
 
 Credenciais e chaves **não ficam aqui**. Estão em
-`material/EquipeTecnica/Equipe Técnica/Acessos Clientes/Atlantica/`, fora do versionamento.
-O índice de acessos está em [acessos-mapa.md](../../../notas/acessos-mapa.md).
+`material/EquipeTecnica/Equipe Técnica/Acessos Clientes/Sodexo/`, fora do versionamento.
+O índice de acessos está em [acessos-mapa.md](../../notas/acessos-mapa.md).
 
 ## O que vai em cada pasta
 

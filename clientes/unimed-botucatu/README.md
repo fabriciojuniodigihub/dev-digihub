@@ -1,13 +1,13 @@
-# Sicoob São Miguel
+# Unimed Botucatu
 
-Ambientes: prd, hom
+Ambientes: a confirmar
 
-Usa chave de API nos dois ambientes. Tem robô no SISBR Desktop.
+Pasta de acessos veio vazia no pacote.
 
 
 Credenciais e chaves **não ficam aqui**. Estão em
-`material/EquipeTecnica/Equipe Técnica/Acessos Clientes/Sicoob São Miguel/`, fora do versionamento.
-O índice de acessos está em [acessos-mapa.md](../../../notas/acessos-mapa.md).
+`material/EquipeTecnica/Equipe Técnica/Acessos Clientes/Unimed Botucatu/`, fora do versionamento.
+O índice de acessos está em [acessos-mapa.md](../../notas/acessos-mapa.md).
 
 ## O que vai em cada pasta
 

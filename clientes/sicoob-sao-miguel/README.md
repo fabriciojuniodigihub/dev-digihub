@@ -1,13 +1,13 @@
-# Sodexo
+# Sicoob São Miguel
 
-Ambientes: prd, act
+Ambientes: prd, hom
 
-Tem base auxiliar e SSO por SAML.
+Usa chave de API nos dois ambientes. Tem robô no SISBR Desktop.
 
 
 Credenciais e chaves **não ficam aqui**. Estão em
-`material/EquipeTecnica/Equipe Técnica/Acessos Clientes/Sodexo/`, fora do versionamento.
-O índice de acessos está em [acessos-mapa.md](../../../notas/acessos-mapa.md).
+`material/EquipeTecnica/Equipe Técnica/Acessos Clientes/Sicoob São Miguel/`, fora do versionamento.
+O índice de acessos está em [acessos-mapa.md](../../notas/acessos-mapa.md).
 
 ## O que vai em cada pasta
 

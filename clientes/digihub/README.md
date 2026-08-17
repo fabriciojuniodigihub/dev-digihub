@@ -1,13 +1,13 @@
-# Johnson & Johnson
+# Digihub (interno)
 
-Ambientes: prd, act
+Ambientes: v5.5, v5.7, prod 5.60
 
-Aparece como JJSV nos documentos.
+Ambientes internos de teste e POCs.
 
 
 Credenciais e chaves **não ficam aqui**. Estão em
-`material/EquipeTecnica/Equipe Técnica/Acessos Clientes/Johnson & Johnson/`, fora do versionamento.
-O índice de acessos está em [acessos-mapa.md](../../../notas/acessos-mapa.md).
+`material/EquipeTecnica/Equipe Técnica/Acessos Clientes/Digihub/`, fora do versionamento.
+O índice de acessos está em [acessos-mapa.md](../../notas/acessos-mapa.md).
 
 ## O que vai em cada pasta
 

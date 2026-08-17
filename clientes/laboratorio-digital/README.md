@@ -1,12 +1,13 @@
-# Too Seguros
+# Laboratório Digital
 
-Ambientes: a confirmar
+Ambientes: prd, act
 
+Tem Portal de Serviços em produção e homologação.
 
 
 Credenciais e chaves **não ficam aqui**. Estão em
-`material/EquipeTecnica/Equipe Técnica/Acessos Clientes/Too Seguros/`, fora do versionamento.
-O índice de acessos está em [acessos-mapa.md](../../../notas/acessos-mapa.md).
+`material/EquipeTecnica/Equipe Técnica/Acessos Clientes/Laboratório Digital/`, fora do versionamento.
+O índice de acessos está em [acessos-mapa.md](../../notas/acessos-mapa.md).
 
 ## O que vai em cada pasta
 
