@@ -59,6 +59,10 @@ Pasta de trabalho da Digihub Tecnologia. Início em 17/08/2026, área de Serviç
 | [metodologia-e-ia.md](notas/metodologia-e-ia.md) | Spec Kit Lecom, skill de campos, Roberty |
 | [automatizacao-de-campos.md](notas/automatizacao-de-campos.md) | as duas planilhas, o script Python e a skill |
 
+## Pessoal
+
+[pessoal/](pessoal/) guarda a assinatura de e-mail e o que for meu, fora de cliente e estudo.
+
 ## Clientes
 
 [clientes/](clientes/) tem uma pasta por cliente, a Lecom entre eles, cada uma dividida em
