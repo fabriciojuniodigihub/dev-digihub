@@ -43,3 +43,14 @@ desktop.ini
 # Índice de infraestrutura de cliente: host, usuário e base. Fica só local.
 notas/acessos-mapa.md
 notas/_inventario_zips.txt
+
+# Biblioteca de terceiro, 908 KB minificados. Fica local, junto do exemplo em modelos/.
+xlsx.full.min.js
+
+# gravacao de reuniao com cliente nao sobe
+gravacoes/
+
+__pycache__/
+
+# Jar da Lecom extraido para estudo, nao e codigo nosso
+wfmail/
