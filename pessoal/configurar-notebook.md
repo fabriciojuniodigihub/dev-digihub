@@ -4,20 +4,21 @@ A ideia é instalar o mínimo na mão e deixar o Claude Code fazer o resto.
 
 ## O mínimo, na mão
 
-**1. Node.js.** Baixa o LTS em [nodejs.org](https://nodejs.org) e instala. É o que roda o
-Claude Code.
+**1. Git.** [git-scm.com](https://git-scm.com/download/win). Deixa marcado o Git Bash na
+instalação, porque o Claude Code usa ele como shell. Sem Git ele cai para o PowerShell.
 
-**2. Git.** [git-scm.com](https://git-scm.com/download/win). Deixa marcado o Git Bash na
-instalação, porque o Claude Code usa.
-
-**3. Claude Code.**
-
-```
-npm install -g @anthropic-ai/claude-code
-```
-
-**4. VS Code.** [code.visualstudio.com](https://code.visualstudio.com), com a opção de
+**2. VS Code.** [code.visualstudio.com](https://code.visualstudio.com), com a opção de
 adicionar ao PATH marcada.
+
+**3. Claude Code**, pelo instalador nativo do Windows, no PowerShell:
+
+```powershell
+irm https://claude.ai/install.ps1 | iex
+```
+
+Esse instalador **não precisa de Node**, e se atualiza sozinho. O Node vem depois, pelo
+script, junto com o resto. Instalar por `npm install -g` só funciona se o Node já existir, que
+é o caso da máquina antiga, não da nova.
 
 ## O resto, pelo Claude Code
 

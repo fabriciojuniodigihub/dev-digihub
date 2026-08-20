@@ -21,7 +21,7 @@ scoop bucket add versions 2>$null
 # ------------------------------------------------------------------ ferramentas
 Passo "Ferramentas de linha de comando"
 $apps = @("git","nodejs","python","gh","7zip","ffmpeg","temurin21-jdk","maven",
-          "php83","composer","postgresql","winscp")
+          "php83","composer","postgresql","winscp","openvpn-w7")
 foreach ($app in $apps) {
     if (scoop list $app 6>$null | Select-String $app -Quiet) { Ok "$app ja instalado" }
     else { scoop install $app }
@@ -43,9 +43,9 @@ $pacotes = @(
 python -m pip install --upgrade pip
 python -m pip install @pacotes
 
-# ------------------------------------------------------------------ claude code
-Passo "Claude Code"
-npm install -g @anthropic-ai/claude-code
+# O Claude Code ja esta instalado, foi ele quem chamou este script.
+# Se algum dia precisar reinstalar do zero, e o instalador nativo:
+#   irm https://claude.ai/install.ps1 | iex
 
 # ------------------------------------------------------------------ vscode
 Passo "Extensoes do VS Code"
@@ -72,7 +72,7 @@ foreach ($c in @("git","node","npm","python","java","gh","ffmpeg","claude")) {
 
 Write-Host "`nFalta fazer na mao:" -ForegroundColor Yellow
 @(
- "1. VPN OpenVPN: instalar o cliente e pedir o arquivo .ovpn ao Maycon",
+ "1. VPN: o script instala o cliente OpenVPN, mas o arquivo .ovpn e a credencial vem com o Maycon",
  "2. hosts: apontar git.lecom.com.br, precisa de PowerShell como administrador",
  "3. gh auth login, com a conta fabriciojuniodigihub",
  "4. claude, autenticar e reconectar o Atlassian com atendimento@digihub.com.br",
